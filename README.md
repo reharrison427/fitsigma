@@ -1,1 +1,1 @@
-fitsigma.py is deprecated, please use fitsigma_taucorr_chisq.py
+fitsigma.py and fitsigma_taucorr_chisq.py are deprecated, please use fitsigma_sig_sensitivity.py
